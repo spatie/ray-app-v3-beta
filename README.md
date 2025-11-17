@@ -1,4 +1,4 @@
-# [Ray v3 Open Beta](https://next.myray.app/)
+# [Ray 3.0 Open Beta](https://next.myray.app/)
 
 > "Understand and fix bugs faster"
 >
