@@ -8,15 +8,15 @@ More information about the open beta can be found here: [next.myray.app](https:/
 
 ## Purpose of this repository
 
-We want to use this repository to collect feedback and track issues during the open beta period for the new Ray application.
+We’ll be using this repository to collect feedback and track issues throughout the open beta period of the new Ray application.
 
-When creating an issue, please follow the issue template we provide.
+When creating an issue, please follow the provided issue template.
 
-When you have a feature request, an idea or something else you want to discuss with us, please open a new discussion. Make sure you clearly state your idea or request. While we welcome all ideas, we will not blindly agree and implement everything. Spatie still has the end vote on whether or not we are going to implement a feature request or idea.
+If you have a feature request, an idea, or anything else you’d like to discuss, feel free to open a new discussion. Be sure to clearly describe your idea or request. While we appreciate all suggestions, we won’t automatically implement everything — Spatie will always have the final say on whether a feature or idea moves forward.
 
-We will try and respond as quickly as possible to each and every issue or discussion, but keep in mind we are also still actively developing Ray, which remains our main priority the coming weeks, so there might be slight delays in response time.
+We’ll do our best to respond promptly to all issues and discussions. However, please keep in mind that we’re also actively developing Ray, which will remain our main focus in the coming weeks, so there may be slight delays in response times.
 
-Issues and bugs will always take priority over feature requests.
+As a rule, issues and bugs will always take priority over feature requests.
 
 ---
 
