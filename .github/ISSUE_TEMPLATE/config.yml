@@ -1,0 +1,6 @@
+blank_issues_enabled: false
+
+contact_links:
+  - name: 💡 Feature Requests & Ideas
+    url: https://github.com/spatie/ray-app-v3-beta/discussions/1
+    about: Please use the following discussion for ideas and feature requests.

@@ -1,0 +1,14 @@
+name: "🚀 Feature Request"
+description: "Feature requests belong in the Ideas & Feature request Discussions 📣"
+issue_template: false
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **Hi! 👋 Feature requests don’t go here.**
+
+        Please add a comment in the ideas & feature request discussion instead:  
+        👉 https://github.com/spatie/ray-app-v3-beta/discussions/1
+
+        Closing this issue automatically.
