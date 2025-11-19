@@ -6,6 +6,11 @@
 
 More information about the open beta can be found here: [next.myray.app](https://next.myray.app/).
 
+## Links
+
+- Ideas or feedback? Add a comment to our Feedback discussion here: https://github.com/spatie/ray-app-v3-beta/discussions/1
+- Issues? Please report them here: https://github.com/spatie/ray-app-v3-beta/issues
+
 ## Purpose of this repository
 
 We’ll be using this repository to collect feedback and track issues throughout the open beta period of the new Ray application.
